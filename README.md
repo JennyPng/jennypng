@@ -12,9 +12,16 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jennypng.jennypng&left_color=green&right_color=forestgreen&left_text=visitors"  />
 </div>
 
-###
+<br>
 
-<div align="left">
+<div align="center">
+  <a href="https://open.spotify.com/user/jennshiki">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jennshiki&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -38,14 +45,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/jennypng/jennypng/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/jennshiki">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jennshiki&count=1" alt="Spotify recently played"  />
-  </a>
-</div>
