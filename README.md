@@ -4,8 +4,10 @@
 </div>
 
 <h3 align="left">✧∩_∩ <br>  („• ֊ •„) ⋆𐙚₊˚⊹<br>￣U U￣￣￣￣￣￣￣￣￣</h3>
-<p align="left">hi, i'm jenny! i’m a software engineer, artist, musician, and aspiring creative technologist ₊˚⊹ ࿔<br><br>🌱 I’m currently learning + working with <b>Supabase, Next.js, React, Unity, Virtual Reality</b><br><br>🪴see what's on my mind in my <a href="https://jennypng.netlify.app/">digital garden</a>
-<br><br> 🐇 Interested in indie game dev, unconventional digital experiences, full-stack development, computer vision, human-made art, and distributed systems.
+<p align="left">hi, i'm jenny! i’m a software engineer, artist, musician, and aspiring creative technologist ₊˚⊹ ࿔<br><br>🌱 I’m currently learning + working with <b>Supabase, Next.js, React, Unity, Virtual Reality</b>
+  <br><br> 🐇 i'm interested in indie game dev, unconventional digital experiences, full-stack development, computer vision, human-made art, and distributed systems.
+  <br><br>🪴see what's on my mind in my <a href="https://jennypng.netlify.app/">digital garden</a>
+
 
 </p>
 
